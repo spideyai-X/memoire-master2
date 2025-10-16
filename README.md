@@ -1,2 +1,7 @@
-# memoire-master2
-Mémoire de Master 2, consacré à la conception, au développement et au déploiement du projet open source OST AI Engine.
+# Mémoire Master 2 – AI Engine of OpenSource Together
+
+Mémoire open-source du développement du recommender-system basé sur l'IA pour la plateforme collaborative [OpenSource Together](https://opensource-together.com/).
+
+Repo de développement de l’AI Engine : [opensource-together/ost-ai-engine](https://github.com/opensource-together/ost-ai-engine/tree/main)
+
+Licence : [CC BY 4.0](LICENSE)
